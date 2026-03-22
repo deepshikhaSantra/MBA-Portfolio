@@ -89,8 +89,8 @@ export const portfolioData = {
 				role: "Customer Support Associate",
 				company: "Amazon",
 				period: "July 2024 – May 2025",
-				//description:
-				//	"Worked on a growth strategy engagement for a Fortune-500 FMCG company. Built financial models, conducted 30+ stakeholder interviews, and delivered C‑suite presentations.",
+				description:
+				"Operated within a specialized abuse-prevention team, managing high-volume, multi-channel customer interactions while ensuring strict adherence to internal policies. Handled sensitive and high-risk cases requiring strong judgment, structured problem-solving, and effective stakeholder communication, contributing to improved customer trust and satisfaction.",
 				achievements: [
 					"Managed calls, emails, and chats in a specialized abuse-prevention team.",
 					"Ensured strict policy compliance and handled high-sensitivity customer cases.",
@@ -102,8 +102,8 @@ export const portfolioData = {
 				role: "Network and Data Analyst",
 				company: "Indian Political Action Committee (IPAC)",
 				period: "Jan 2023 - March 2023",
-				//description:
-				//	"Owned the seller-onboarding funnel, running A/B tests and crafting data-driven strategies that improved conversion rates and reduced churn.",
+				description:
+					"Supported stakeholder engagement and data-driven campaign operations by working across networking and analytics teams. Contributed to structured data analysis, coordination efforts, and field-level execution, enabling informed decision-making and efficient campaign management.",
 				achievements: [
 					"Worked in the Networking Team managing stakeholder outreach and coordination.",
 					"Collaborated closely with the Data Analysis Team for voter data insights and structured reporting.",

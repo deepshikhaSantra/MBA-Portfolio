@@ -54,7 +54,7 @@ export default function Experience() {
 															{item.company}
 														</p>
 														<p className="mt-3 text-sm leading-relaxed text-white/50">
-															{item.description}
+															{item.description}	
 														</p>
 
 														<ul className="mt-4 space-y-1.5">
