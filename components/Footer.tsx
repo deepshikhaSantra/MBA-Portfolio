@@ -1,3 +1,5 @@
+/*
+
 "use client";
 
 import { portfolioData } from "@/lib/data";
@@ -13,3 +15,4 @@ export default function Footer() {
 		</footer>
 	);
 }
+*/

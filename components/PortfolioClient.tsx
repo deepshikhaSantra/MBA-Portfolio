@@ -11,7 +11,7 @@ import Experience from "@/components/Experience";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+//import Footer from "@/components/Footer";
 
 /** Cinematic reveal animation for the main site after loader exits */
 const siteReveal = {
@@ -58,7 +58,7 @@ export default function PortfolioClient() {
 					<Projects />
 					<Contact />
 				</main>
-				<Footer />
+				
 			</motion.div>
 		</>
 	);
